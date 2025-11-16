@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Rosto para Cortes de Cabelo",
+  "description": "Um aplicativo que utiliza IA para analisar o formato do seu rosto e recomendar os melhores cortes de cabelo para você. Envie uma foto frontal e uma de perfil para receber uma análise detalhada e sugestões personalizadas.",
+  "requestFramePermissions": []
+}
